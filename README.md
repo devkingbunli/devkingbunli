@@ -1,4 +1,4 @@
-# Olá — eu sou o Theo
+# Olá
 
 Obrigado por visitar meu perfil. Eu sou desenvolvedor com foco em aplicações web empresariais e sites responsivos. Trabalho tanto no front-end (interfaces, acessibilidade e performance) quanto no back-end (APIs e integrações).
 
@@ -6,7 +6,7 @@ Obrigado por visitar meu perfil. Eu sou desenvolvedor com foco em aplicações w
 
 - Construo sites e portais corporativos
 - Desenvolvo sistemas ERP e integrações sob medida
-- Faço protótipos rápidos, boilerplates e componentes reutilizáveis
+- Faço protótipos rápidos e componentes reutilizáveis
 
 ## Tecnologias que uso com frequência
 
