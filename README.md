@@ -11,9 +11,9 @@ Obrigado por visitar meu perfil. Eu sou desenvolvedor com foco em aplicações w
 ## Tecnologias que uso com frequência
 
 - Front-end: HTML, CSS, JavaScript, TypeScript, React, Vue
-- Estilização: Tailwind CSS, CSS moderno (variables, Flexbox, Grid)
+- Estilização: Tailwind CSS, CSS moderno
 - Back-end: Python (Flask / FastAPI), Node.js
-- Ferramentas: Git, Vite, ESLint, testes e deploys básicos
+- Ferramentas: Git, Vite, ESLint
 
 ## Projetos / clientes (amostras)
 
