@@ -12,8 +12,7 @@ Obrigado por visitar meu perfil. Eu sou desenvolvedor com foco em aplicações w
 
 - Front-end: HTML, CSS, JavaScript, TypeScript, React, Vue
 - Estilização: Tailwind CSS, CSS moderno
-- Back-end: Python (Flask / FastAPI), Node.js
-- Ferramentas: Git, Vite, ESLint
+- Back-end: Python, Node.js
 
 ## Projetos / clientes (amostras)
 
@@ -27,17 +26,3 @@ Obrigado por visitar meu perfil. Eu sou desenvolvedor com foco em aplicações w
 
 - Email: theoalborghetti@gmail.com
 - Instagram: https://instagram.com/theoalborghetti
-
-💬 Se quiser marcar uma conversa rápida, enviar um briefing de projeto ou pedir um orçamento, me envie um email com os detalhes.
-
-  ---
-
-  ## Hi there 👋
-
-  <!--
-  **devkingbunli/devkingbunli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-  Here are some ideas to get you started:
-
-  - 🔭 I’m currently working on PERFISUD
-
